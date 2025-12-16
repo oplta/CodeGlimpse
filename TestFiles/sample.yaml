@@ -1,0 +1,8 @@
+name: CodeGlimpse
+version: 1.0.0
+dependencies:
+  - swift
+  - quicklook
+config:
+  theme: dracula
+  fontSize: 14

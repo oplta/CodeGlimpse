@@ -1,0 +1,7 @@
+[package]
+name = "code_glimpse"
+version = "0.1.0"
+authors = ["Mehmet Emin POLAT"]
+
+[dependencies]
+serde = "1.0"
